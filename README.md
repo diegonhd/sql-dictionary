@@ -26,8 +26,3 @@ Abaixo, um resumo de cada etapa concluída:
 ## 🛠️ Como Navegar neste Repositório
 
 Cada pasta `srcX` contém seu próprio `README.md` detalhado com a explicação de cada script SQL e o banco de dados correspondente necessário para a execução. 
-
-> **Nota de Carreira**: Este repositório reflete as competências adquiridas em Engenharia de Computação em Fortaleza, Ceará, focando na criação de sistemas resilientes e seguros.
-
----
-*Organizado por Diego - Estudante de Engenharia de Computação.*
